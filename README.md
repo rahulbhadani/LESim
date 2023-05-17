@@ -1,5 +1,5 @@
 # Learning-enable Simulation
-<img src="https://raw.githubusercontent.com/rahulbhadani/ZTF/main/ztf.png" width="600">
+<img src="https://raw.githubusercontent.com/rahulbhadani/LESim/main/LESim.png" width="600">
 
 # Python Library for Learning-enabled Simulation
 [![PyPI Latest Release](https://img.shields.io/pypi/v/ZTF.svg)](https://pypi.org/project/ZTF/)
