@@ -26,7 +26,7 @@ Please follow the steps to contribute to the project
 We advise to fetch and merge from upstream before you make a pull request.
 
 ## LICENSE
-[MIT License](https://github.com/rahulbhadani/ZTF/blob/main/LICENSE)
+[MIT License](https://github.com/rahulbhadani/LESim/blob/main/LICENSE)
 
 
 (c) Rahul Bhadani
