@@ -1,6 +1,6 @@
 |PyPI|
 
-LESim - Digital Control using Z-transform 
+LESim - Learning-enabled Simulations 
 ============================================================
 
 .. image:: https://raw.githubusercontent.com/rahulbhadani/LESim/main/LESim.png
@@ -30,7 +30,6 @@ Installation
 Quick Start
 ^^^^^^^^^^^^^^
 
-We can implement a PID controller block that takes a timeseries input in the loop and outputs controlled value in open-loop setting
 
 .. code-block:: python
 
