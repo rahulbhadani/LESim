@@ -2,8 +2,8 @@
 <img src="https://raw.githubusercontent.com/rahulbhadani/LESim/main/LESim.png" width="600">
 
 # Python Library for Learning-enabled Simulation
-[![PyPI Latest Release](https://img.shields.io/pypi/v/ZTF.svg)](https://pypi.org/project/ZTF/)
-[![License](https://img.shields.io/pypi/l/ZTF.svg)](https://github.com/rahulbhadani/ZTF/blob/master/LICENSE)
+[![PyPI Latest Release](https://img.shields.io/pypi/v/LESim.svg)](https://pypi.org/project/LESim/)
+[![License](https://img.shields.io/pypi/l/LESim.svg)](https://github.com/rahulbhadani/LESim/blob/master/LICENSE)
 
 
 ## Installation

@@ -13,7 +13,7 @@ def readme():
 
 v = Path(MODULE_NAME + '/version').open(encoding = 'utf-8').read().splitlines()
 setuptools.setup(
-    name='ZTF',
+    name='LESim',
     version=v[0].strip(),
     author='Rahul Bhadani',
     author_email='rahulbhadani@email.arizona.edu',
