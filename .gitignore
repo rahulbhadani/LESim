@@ -388,5 +388,5 @@ TSWLatexianTemp*
 *.lpz
 
 docs/source/*.ipynb
-strym/README.md
 .idea
+LESim/README.md
