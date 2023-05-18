@@ -12,6 +12,13 @@
 pip install LESim
 ```
 
+## RoadMap
+
+- Model training from data to capture real-world statistics
+- Generation of synthetic dataset from the model
+- Orchestrate multi-agent simulation from the synthetic dataset
+- Train new controllers in the simulation
+
 ## Usage
 
 
